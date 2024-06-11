@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/my_first_directory/ /tmp/betty/
+cd /tmp/ /tmp/my_first_directory/
