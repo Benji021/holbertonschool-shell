@@ -1,2 +1,2 @@
 #!/bin/bash
-read -r username homedire '< /etc/passwd' | sort '-t' '-k 2'
+cat /etc/passwd | cut -d | sort -t: '-k 1'
