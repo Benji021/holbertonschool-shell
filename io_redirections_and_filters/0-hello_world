@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr hello, World ls >
+lpr Hello, World ls >
