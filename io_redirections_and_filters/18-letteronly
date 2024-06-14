@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -E | less /etc/ssh/sshd_config
